@@ -1,6 +1,7 @@
 Hi there 👋
 
-🔭 I’m currently working on BCA
+
+ I’m currently working on BCA
 🌱 I’m currently learning web development
 👯 I’m looking to collaborate on NoThIng
 🤔 I’m looking for help with coding
