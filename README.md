@@ -8,4 +8,4 @@ Hi there 👋
 💬 Ask me about Anything
 📫 How to reach me:
 😄 Pronouns: ...
-⚡ Fun fact: ... -->
+⚡ Fun fact: ...-->
